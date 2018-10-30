@@ -1,6 +1,5 @@
 import javax.swing.JOptionPane;
 public class U1L09Quadratic {
-
 	public static void main(String[] args) {
 		String a1 = JOptionPane.showInputDialog("What is your a value?");
 		double a = Double.parseDouble(a1);
